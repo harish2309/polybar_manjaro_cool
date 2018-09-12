@@ -1,0 +1,1 @@
+# polybar_manjaro_cool
